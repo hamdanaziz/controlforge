@@ -10,8 +10,11 @@
 ## Official Standard Link
 - [OECD — AI Principles](https://www.oecd.org/en/topics/sub-issues/ai-principles.html)
 
+
 ## Brief Info
 Reference checklist pack for OECD — AI Principles. Jurisdiction: International (OECD). Type: Principles.
 
 ## How This Is Used In TrustStack
 This standard is represented as a versioned pack and contributes checklist controls, expected evidence, and audit-ready mapping context.
+
+- ![OECD AI Principles Official Page](images/ai_principles_oecd.png)
